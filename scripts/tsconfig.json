@@ -1,0 +1,10 @@
+{
+    "compilerOptions": { 
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": false,
+        "out": "../output/phaser-visualTimer.js",
+        "target": "es5"
+    }
+}
